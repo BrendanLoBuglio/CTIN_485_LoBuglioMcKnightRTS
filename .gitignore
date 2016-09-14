@@ -1,0 +1,57 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+*.suo
+*.csproj
+*.sln
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+Thumbs.db
+# ============ #
+# Unity Project#
+# ============ #
+LoBuglioMcKnight_RTS_UnityProj/Library/
+LoBuglioMcKnight_RTS_UnityProj/Temp/
+LoBuglioMcKnight_RTS_UnityProj/Builds/
+LoBuglioMcKnight_RTS_UnityProj/UpgradeLog.htm
+LoBuglioMcKnight_RTS_UnityProj/UpgradeLog6.htm
+LoBuglioMcKnight_RTS_UnityProj/UpgradeLog3.htm
+LoBuglioMcKnight_RTS_UnityProj/UpgradeLog4.htm
+LoBuglioMcKnight_RTS_UnityProj/UpgradeLog5.htm
+# ============ #
+# OS generated #
+# ============ #
+AkWwiseProjectData.asset
+LoBuglioMcKnight_RTS_UnityProj/GrassdancerWwiseProject/.cache/
+LoBuglioMcKnight_RTS_UnityProj/GrassdancerWwiseProject/GrassdancerWwiseProject.grassdancer-admin.validationcache
+
+*.cache
+*.validationcache
+*.prof

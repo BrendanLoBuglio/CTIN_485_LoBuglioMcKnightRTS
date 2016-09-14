@@ -3,7 +3,6 @@ using System.Collections;
 
 public class TestScript : MonoBehaviour {
 
-	// Use this for initialization
 	void Start () {
 	
 	}
@@ -12,4 +11,9 @@ public class TestScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+    private void newFunction()
+    {
+
+    }
 }
